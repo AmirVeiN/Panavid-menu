@@ -1,11 +1,11 @@
 import Menu from "./components/menu";
 import { AiFillHome } from "react-icons/ai";
-import { FaAngleDown } from "react-icons/fa";
 import React, { useState } from "react";
 import { FaAngleLeft } from "react-icons/fa";
 import { FaAngleRight } from "react-icons/fa";
 import ReactApexChart from 'react-apexcharts'
 import { FaAngleUp } from "react-icons/fa";
+import { FaAngleDown } from "react-icons/fa";
 
 export default function App() {
 
@@ -124,15 +124,15 @@ export default function App() {
                                 <img src="/Vector13.png" alt="" />
                             </button>
                             <button className="relative h-fit">
-                                {/* <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" /> */}
+                                <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" />
                                 <img src="/Vector14.png" alt="" />
                             </button>
                             <button className="relative h-fit">
-                                {/* <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" /> */}
+                                <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" />
                                 <img src="/Vector15.png" alt="" />
                             </button>
                             <button className="relative h-fit">
-                                {/* <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" /> */}
+                                <img src="/Vector18.png" className="absolute -top-1 -right-1" alt="" />
                                 <img src="/Vector16.png" alt="" />
                             </button>
                             <div className="bg-back shadow-inner w-[190px] h-[50px] rounded-xl flex flex-col justify-center items-center space-y-1">
